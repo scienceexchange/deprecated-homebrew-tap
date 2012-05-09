@@ -7,5 +7,5 @@ brew tap scienceexchange/tap
 
 Usage instructions
 ````
-brew install scienceexchange/tap/wkhtmltopdf
+brew install scienceexchange/tap/wkhtmltopdf-static
 ````
